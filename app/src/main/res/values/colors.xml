@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Almond_beige">#DFD5CA</color>
+    <color name="Macadamia_beige">#F7DFBA</color>
+    <color name="winter_pear_beige">#C7A55F</color>
+    <color name="dark_olive_beige">#A68958</color>
+    <color name="Newspaper_Color">#F5F2E8</color>
+    <color name="Sandpaper_Color">#A57B42</color>
+    <color name="trans_p">#00FFFFFF</color>
+</resources>
