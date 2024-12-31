@@ -33,7 +33,7 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="50dp"
         android:text="Notes"
-        android:textSize="30sp"
+        android:textSize="50sp"
         android:textColor="@color/dark_olive_beige"
         tools:ignore="HardcodedText" />
 
