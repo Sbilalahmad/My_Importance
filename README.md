@@ -1,4 +1,4 @@
-# NoteTaker - Simple Android Note Taking App 📝
+# My Importance - Simple Android Note Taking App 📝
 
 ![App Screenshot](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093203.My%20Importance.png))
 
