@@ -21,7 +21,7 @@ A minimalistic note-taking Android application built with Kotlin, using SQLite f
 ## Screenshots 📱
 | Add Note | View Notes | Edit Note |
 |----------|------------|-----------|
-| ![Add](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093221.My%20Importance.png) | ![View](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093209.My%20Importance.png) | ![Edit](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093229.My%20Importance.png) |
+| ![Add](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/light/Screenshot_20250720-095252.My%20Importance.png) | ![View](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/light/Screenshot_20250720-095248.My%20Importance.png) | ![Edit](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/light/Screenshot_20250720-095258.My%20Importance.png) |
 
 *(Replace with actual screenshots of your app)*
 
