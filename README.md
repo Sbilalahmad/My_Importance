@@ -1,6 +1,6 @@
 # NoteTaker - Simple Android Note Taking App 📝
 
-![App Screenshot]([https://via.placeholder.com/300x600?text=NoteTaker+Screenshot](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093203.My%20Importance.png))
+![App Screenshot](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093203.My%20Importance.png))
 
 A minimalistic note-taking Android application built with Kotlin, using SQLite for local storage and XML for UI design.
 
@@ -21,7 +21,7 @@ A minimalistic note-taking Android application built with Kotlin, using SQLite f
 ## Screenshots 📱
 | Add Note | View Notes | Edit Note |
 |----------|------------|-----------|
-| ![Add]([https://via.placeholder.com/200x400?text=Add+Note](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093221.My%20Importance.png)) | ![View]([https://via.placeholder.com/200x400?text=View+Notes](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093209.My%20Importance.png)) | ![Edit]([https://via.placeholder.com/200x400?text=Edit+Note](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093229.My%20Importance.png)) |
+| ![Add](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093221.My%20Importance.png) | ![View](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093209.My%20Importance.png) | ![Edit](https://github.com/Sbilalahmad/My_Importance/blob/master/toShow/Screenshot_20250720-093229.My%20Importance.png) |
 
 *(Replace with actual screenshots of your app)*
 
